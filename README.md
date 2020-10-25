@@ -1,0 +1,1 @@
+# ndvi_plugin_qgis
